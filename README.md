@@ -1,0 +1,2 @@
+# git.website
+static website
